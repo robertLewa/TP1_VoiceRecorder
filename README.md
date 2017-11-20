@@ -1,0 +1,2 @@
+# TP1_VoiceRecorder
+Ce code permet d'utiliser un aspect multimédia de la technologie android. Les étudiants dispose ici d'une application qui permet l'enregistrement ainsi que l'écoute d'un message vocale. De plus il permet d'extraire la donné (tableau de byte) issu du son enregistré et de le récréer sans enregistrement. Cela permet une utilisation future de cette donnée (envoi dans le réseau ou stockage dans une base de donnée). 
